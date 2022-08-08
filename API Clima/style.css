@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+
+body{
+    overflow: hidden;
+}
+
+#container{
+    height: 80vh;
+    text-shadow: 0 0 5px gray;
+    background-color: #05336b;
+    filter: brightness(120%) contrast(110%);
+    color: white;
+    font-family: 'Kdam Thmor Pro', 'sans-serif';
+    box-shadow: 10px 10px 10px black;
+}
+
+#image-icon{
+    width:60px;
+}
+
+
+#input::placeholder{
+    text-align: center;
+}
+
